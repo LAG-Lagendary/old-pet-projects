@@ -2,6 +2,10 @@
 
 # 🎹 LAG: Code & Music — Sample Processing Scripting
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LAG-Lagendary/old-pet-projects/main/InstrumentsDecentSampler/assets/images/decentsampler.jpeg" width="60%" alt="Decent Sampler Banner">
+</p>
+
 # 🔴**O**🟠**R**🟡**C**🟢**H**🔵**E**🟣**S**🔴**T**🟠**R**🟡**A**🟢
 
 # 🔵**P**🟣**I**🔴**Z**🟠**Z**🟡_**🟢**Y**🔵**O**🟣**V**🟣**A🟠
@@ -11,16 +15,9 @@
 **A modular pipeline for preparing instrument samples for Decent Sampler.**
 
 
-```mkdir -p "$HOME/.config/DecentSampler/Sample Libraries"```
-
-
-```git clone https://github.com/LAG-Lagendary/YovaOrcestraDecentSampler "$HOME/.config/DecentSampler/Sample Libraries/YovaOrcestraDecentSampler"```
-
 *Mathematical analysis: onset detection, statistical filtering, RMS normalization.*
 
 </div>
-
-![Orchestra Pizz Yova](https://raw.githubusercontent.com/LAG-Lagendary/YovaOrcestraDecentSampler/main/Orchestra_pizz_Yova/University%20of%20Yova.%20Thanks%20you!(All%20together).jpg)
 
 ---
 
